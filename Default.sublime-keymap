@@ -1,0 +1,10 @@
+[
+	{
+		"keys": ["f8"],
+		"command": "python_it"
+	},
+	{
+		"keys": ["ctrl+enter"],
+		"command": "python_it"
+	}
+]
